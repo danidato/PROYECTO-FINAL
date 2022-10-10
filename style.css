@@ -1,0 +1,181 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+
+
+
+body{
+    font-family: 'Poppins', sans-serif; 
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    padding: 50px;
+    background-color: burlywood;
+    text-align: center;
+
+}
+
+nav{
+    display: flex;
+    flex-direction: row;
+    background-color:orange;
+    
+}
+
+nav a {
+    color: black;
+    padding: 12px;
+    text-decoration: none;
+    
+
+
+}
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+aside{
+    flex: 30px;
+    background-color: sandybrown;
+    padding: 20px;
+
+    
+
+}
+
+section{
+    flex: 70px;
+    background-color: darksalmon;
+    padding: 20px;
+}
+
+footer{
+    padding: 20px;
+    text-align: center;
+    background-color: chocolate;
+}
+
+
+.huella{
+    width: 100px;
+    display: inline;
+}
+
+.foto1{
+    width: 250px;
+    height: 150px;}
+
+  .foto3{
+    width: 40px;
+    
+  }
+
+  .foto4{
+    width: 40px;
+    
+  }
+
+  .foto5{
+    width: 40px;
+  }
+
+
+  section{
+    flex: 70px;
+    background-color: darksalmon;
+    padding: 20px;
+}
+
+aside{
+    flex: 30px;
+    background-color: sandybrown;
+    padding: 20px;
+}
+
+
+.fotocara{
+    width: 200px;
+    
+}
+
+.jack{
+    width: 200px;
+    
+
+}
+
+.huellita{
+    width: 150px;
+    float: right;
+}
+
+article{
+    flex: 70px;    
+    background-color: burlywood;
+    padding: 20px;    
+}
+
+.logo1{
+    width: 100px;
+    float: right;
+}
+
+section{
+    flex: 70px;
+    background-color: darksalmon;
+    padding: 20px;
+}
+
+section{
+    flex: 70px;
+    background-color: darksalmon;
+    padding: 20px;
+}
+
+.logogaleria{
+    width: 50px;
+    float:right ;
+}
+
+
+*{
+    box-sizing: border-box;
+}
+
+img{ 
+    width: 200px;
+}
+
+.row{
+    background-color:sandybrown;
+    display: flex;
+    padding: 5px;
+}
+
+.column img{
+    margin-top: 5px;
+}
+
+
+form{
+    margin: 10px;
+    padding: 10px;
+    text-align: justify;
+   
+}
+
+.boton{
+    font-size: small;
+    float: left
+}
+
+footer{
+    background-color: peru;
+}
+.whatsap{
+    width: 50px;
+    float: inline-start;
+}
+
